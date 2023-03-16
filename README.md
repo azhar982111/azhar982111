@@ -3,7 +3,7 @@
 - :seedling: I’m currently learning frontend web development and Data structure and Algorithms.
 - :dancers: I’m looking to collaborate with other content creators.
 - :goal_net: 2023 Goals: Learn more about Programming and web3
-- :zap: Fun fact: I love to play Chess
+- :zap: Fun fact: I love to play cricket
 <img align="right" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="350" height="250" />
 <br></br>
 <br></br>
